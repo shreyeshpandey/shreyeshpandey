@@ -1,10 +1,10 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Shreyesh Pandey</h1>
 
 
-<div align="center">
-  <!-- <img src ="./banner.png" /> -->
+<!-- <div align="center">
+  <img src ="./banner.png" />
   
-</div>
+</div> -->
 
  <br/>
 
